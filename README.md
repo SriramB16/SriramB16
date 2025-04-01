@@ -2,7 +2,7 @@
 <br>Hi there! 👋 I'm Sriram Baskaran<br><br><br><br>I'm a passionate Full Stack Developer with a focus on front-end technologies. My journey involves crafting delightful user experiences using HTML, CSS, JavaScript, ReactJs, Bootstrap, and Sass. I'm also proficient in backend technologies like Node.js, Express.js, Python, SQL, and MongoDB. Git and GitHub are my go-to tools for version control and collaboration.<br>
 
 ### Portfolio:
-Check out my portfolio at www.srirambaskaran.com to explore some of my past projects and learn more about my skills and experiences.<br>
+Check out my portfolio at [srirambaskaran](https://srirambaskaran.wixstudio.com/my-site-7) to explore some of my past projects and learn more about my skills and experiences.<br>
 ### Hobbies & Interests:
 When I'm not coding, you can find me:<br><br>🏏 Playing cricket<br>🎬 Binge-watching movies<br>🍻 Hanging out with friends<br> 
 ## Let's Connect:
